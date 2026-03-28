@@ -2,8 +2,10 @@
 ## Icaro Ferreira de Oliveira
 
 ## Breve Descrição da Ideia
- - O FilaZero é uma solução para dispositivos móveis projetada para otimizar o tempo dos usuários, permitindo que visualizem estabelecimentos próximos, verifiquem o tempo de espera em tempo real e entrem em filas virtualmente. O objetivo principal é eliminar a necessidade de espera física em locais como bancos, hospitais e restaurantes.Explicação das Telas CriadasO protótipo de baixa fidelidade foca na estrutura e no fluxo de navegação, composto pelas seguintes interfaces:
+ - O FilaZero é uma solução para dispositivos móveis projetada para otimizar o tempo dos usuários, permitindo que visualizem estabelecimentos próximos, verifiquem o tempo de espera em tempo real e entrem em filas virtualmente. O objetivo principal é eliminar a necessidade de espera física em locais como bancos, hospitais e restaurantes.
 
+## Explicação das Telas Criadas
+O protótipo de baixa fidelidade foca na estrutura e no fluxo de navegação, composto pelas seguintes interfaces:
 1. Inicial: Ponto de entrada com a proposta de valor e botão para iniciar a jornada.
 2. Login: Autenticação do usuário via credenciais diretas ou redes sociais.
 3. Cadastro: Coleta de dados básicos para novos usuários (nome, e-mail, telefone e senha).
